@@ -16,7 +16,7 @@ This repository contains an ETL (Extract, Transform, Load) pipeline that extract
 ## Setup
 
 1. **Clone the Repository**  
-   git clone https://github.com/your-username/etl-pipeline.git
+   git clone https://github.com/arsamawan/Etl-URL.git
 
 2. **Install Dependencies**  
    pip install (package name)
